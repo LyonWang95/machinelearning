@@ -1,6 +1,6 @@
 # 二叉树遍历
 
-```text
+```python
 #coding=utf-8
 
 class Node(object):
